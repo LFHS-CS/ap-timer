@@ -24,6 +24,15 @@
   color: white;
 }
 
+.form-input {
+  margin-right: 10px;
+}
+
+.timer-container {
+  border: 1px solid black;
+}
+
+
 .App-link {
   color: #61dafb;
 }
