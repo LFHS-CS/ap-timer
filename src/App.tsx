@@ -156,7 +156,7 @@ export default class App extends React.Component<AppProps, AppState>  {
           }
         </div>
         <div>
-          <div>
+          <div className="next-question">
             <Button variant="primary" onClick={this.nextQuestion}>Next Question</Button>
           </div>
           <div>

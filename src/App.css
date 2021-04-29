@@ -28,6 +28,10 @@
   margin-right: 10px;
 }
 
+.next-question {
+  margin-bottom: 100px;
+}
+
 .timer-container {
   border: 1px solid black;
 }
