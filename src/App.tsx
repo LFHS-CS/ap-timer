@@ -132,7 +132,7 @@ export default class App extends React.Component<AppProps, AppState>  {
   render() {
     return (
       <div className="App">
-        <h1>AP Multiple Choice Timer</h1>
+        <h1>Multiple Choice Timer</h1>
         <div>
           <form onSubmit={this.startTimer}>
             <label className="form-input">Hours
